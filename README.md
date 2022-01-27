@@ -2,19 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Francisca</h1>
 
+<h4 align="center">Detail oriented, team player, reliant and explorer is what best describes me 🤓</h4>
 
-- 🗃 I'm currently working at [**Switch**](https://switchpayments.com/)
+
+- 👩🏼‍💻 I'm currently working at [**Switch**](https://switchpayments.com/)
 
 - 🔭 I'm currently **getting my Master's in Software Engineering**
 
-- 🌱 I'm currently learning **Node.JS and gripping Android Development**
+- 🌱 I'm currently gripping **Node.JS**
 
-- 💬 Ask me about **Python3, Java, JS/TS, HTML**
+- 💬 Ask me about **Python, Java and a bit of Javascript as well**
 
-- 📫 How to reach me **[Email](mailto:francisca1barros@hotmail.com)**
+- 📫 Reach me via **[Email](mailto:francisca1barros@hotmail.com)** or,
 
 - 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/franciscambarros/)**
 
 - ⚡ Fun fact, **besides being a computer-nerd I'm also keen on weightlifting 🏋️‍♀️**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskikat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
