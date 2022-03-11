@@ -5,7 +5,7 @@
 <h4 align="center">Detail oriented, team player, reliant and explorer is what best describes me 🤓</h4>
 
 
-- 👩🏼‍💻 I'm currently working at [**Switch**](https://switchpayments.com/)
+- 👩🏼‍💻 I'm currently working at [**SaltPay**](https://www.saltpay.co/)
 
 - 🔭 I'm currently **getting my Master's in Software Engineering**
 
