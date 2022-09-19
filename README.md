@@ -7,14 +7,20 @@
 
 - 👩🏼‍💻 I'm currently working at [**SaltPay**](https://www.saltpay.co/)
 
-- 🔭 I'm currently **getting my Master's in Software Engineering**
+- 📝 I'm currently **writing my Master's Thesis in Software Engineering**
 
-- 🌱 I'm currently gripping **Node.JS**
+- 📊 I'm getting a grip on **ElasticSearch and Data Processing**
 
-- 💬 Ask me about **Python, Java and a bit of Javascript as well**
+- 💬 Ask me about **Python🐍, Java and a bit of Javascript as well**
 
 - 📫 Reach me via **[Email](mailto:francisca1barros@hotmail.com)** or,
 
 - 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/franciscambarros/)**
 
 - ⚡ Fun fact, **besides being a computer-nerd I'm also keen on weightlifting 🏋️‍♀️**
+
+<hr>
+
+<h4 align="left">Here's what I've been jaming to recently 🤠</h4>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1175903301&width=300)
