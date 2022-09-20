@@ -23,4 +23,4 @@
 
 <h4 align="left">Here's what I've been jaming to recently 🤠</h4>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1175903301&width=300)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1175903301&width=300&unique=true&count=4)
