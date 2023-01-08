@@ -19,8 +19,10 @@
 
 - ⚡ Fun fact, **besides being a computer-nerd I'm also keen on weightlifting 🏋️‍♀️**
 
+![itskikat GitHub stats](https://github-readme-stats.vercel.app/api?username=itskikat&show_icons=true&count_private=true&hide=stars,contribs&theme=transparent)
+
 <hr>
 
 <h4 align="left">Here's what I've been jaming to recently 🤠</h4>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1175903301&width=300&unique=true&count=4)
+![Recent Spotify Jams](https://spotify-recently-played-readme.vercel.app/api?user=1175903301&width=300&unique=true&count=4)
