@@ -5,7 +5,7 @@
 <h4 align="center">Detail oriented, team player, reliant and explorer is what best describes me 🤓</h4>
 
 
-- 👩🏼‍💻 I'm currently working at [**SaltPay**](https://www.saltpay.co/)
+- 👩🏼‍💻 I'm currently working at [**Teya**](https://teya.com/)
 
 - 📝 I'm currently **writing my Master's Thesis in Software Engineering**
 
