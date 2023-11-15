@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact, **besides being a computer nerd I'm also keen on weightlifting 🏋️‍♀️**
 
-![itskikat GitHub stats](https://github-readme-stats.vercel.app/api?username=itskikat&show_icons=true&count_private=true&hide=stars,contribs&theme=transparent)
 
 <hr>
 
