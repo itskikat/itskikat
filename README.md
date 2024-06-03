@@ -5,11 +5,9 @@
 <h4 align="center"> Detail-oriented, team player, reliant and explorer is what best describes me 🤓</h4>
 
 
-- 👩🏼‍💻 I'm currently working at [**Teya**](https://teya.com/)
+- 👩🏼‍💻 I'm currently working at [**Zendesk**](https://www.zendesk.com/)
 
 - 💬 Ask me about **Python🐍, Java and a bit of Javascript as well**
-
-- 📫 Reach me via **[Email](mailto:francisca1barros@hotmail.com)** or,
 
 - 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/franciscambarros/)**
 
