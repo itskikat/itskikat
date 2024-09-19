@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Francisca</h1>
 
-<h4 align="center"> Detail-oriented, team player, reliant and explorer is what best describes me 🤓</h4>
+<h4 align="center"> Detail-oriented, team player, self-reliant and explorer is what best describes me 🤓</h4>
 
 
 - 👩🏼‍💻 I'm currently working at [**Zendesk**](https://www.zendesk.com/)
