@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact, **besides being a computer nerd I'm also keen on weightlifting 🏋️‍♀️**
 
+- 📑 More about me on my **[website](https://itskikat.github.io/)**
 
 <hr>
 
