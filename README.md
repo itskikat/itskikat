@@ -7,11 +7,11 @@
 
 - 👩🏼‍💻 I'm currently working at [**Zendesk**](https://www.zendesk.com/)
 
-- 💬 Ask me about **Python🐍, Java and a bit of Javascript as well**
+- 💬 Ask me about **Python🐍, Java☕️ and Ruby💎**
 
 - 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/franciscambarros/)**
 
-- ⚡ Fun fact, **besides being a computer nerd I'm also keen on weightlifting 🏋️‍♀️**
+- ⚡ Fun fact, **besides being a computer nerd I'm also keen on olympic weightlifting 🏋️‍♀️**
 
 - 📑 More about me on my **[website](https://itskikat.github.io/)**
 
